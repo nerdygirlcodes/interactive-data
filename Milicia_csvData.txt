@@ -1,0 +1,4 @@
+|Fighter|Mage|Healer
+0|Ramza|Terra|Aerith
+1|Locke|Lulu|Rosa
+2|Cloud|Rydia|Yuna
